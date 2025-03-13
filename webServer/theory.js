@@ -35,3 +35,21 @@
  * 
  * 
  */ 
+
+
+/***
+ * 
+ * * * * * Important Note related to Nodemon :-
+ * 
+ * * * How to install the nodemon in node.js ?
+ * 
+    Step :- 1.) Open the terminal first and then check the list (i.e., by ls command).
+    Step :- 2.) Move to the folder (by cd command) in which you want to install (E.g., This project folder present in the 013--Auto_Restart_Your_NodeJS. In this also, having the folder named as webServer. The webServer contains the project files or project name is webServer.).
+    Step :- 3.) cd webServer
+    Step :- 4.) Then install the nodemon (i.e., npm i nodemon).
+    Step :- 5.) Then exit.
+    Step :- 6.) After this also, the nodemon not work. Then, install it globally first by (i.e., npm i nodemon -g).
+    Step :- 7.) After globally installation the nodemon work easily.
+ * 
+ * 
+ */
